@@ -57,7 +57,7 @@ I found that it was easier to measure accuracy with **SDV** compared to other sy
 This project contains the following main files:
 
 1. **WoW.jynb**: 
-    - A Jupyter Notebook file that contains the code for **data generation**, **data exploration**, **feature engineering**, and **model training**. It provides a step-by-step approach to building and training the churn prediction model.
+    - A Jupyter Notebook file that contains the code for  **data exploration**, **feature engineering**, and **model training**. It provides a step-by-step approach to building and training the churn prediction model.
    
 2. **churn.csv**: 
     - The synthetic dataset used for the churn prediction task. This file contains the features related to the player's activities, such as **total_timestamps**, **unique_days**, **max_level**, etc.
