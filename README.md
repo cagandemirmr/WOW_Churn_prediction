@@ -1,4 +1,5 @@
 # Synthetic Data Generation and Churn Prediction on Game Data
+![image](https://github.com/user-attachments/assets/6375af46-d4d8-408f-a1a2-6ae163ac10c4)
 
 In this repository, you can find my work to predict **churn** in gaming data using **synthetic datasets**. The primary objective of this project is to predict **player churn** in a gaming environment, specifically focusing on **World of Warcraft**. To make the task more challenging and to create a more realistic dataset, I decided to generate **synthetic data** rather than use an existing one.
 
